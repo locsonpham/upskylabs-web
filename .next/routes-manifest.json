@@ -3,16 +3,16 @@
   "pages404": true,
   "appType": "app",
   "caseSensitive": false,
-  "basePath": "/upskylabs-web",
+  "basePath": "/locsopham.github.io/upskylabs-web",
   "redirects": [
     {
-      "source": "/upskylabs-web/",
-      "destination": "/upskylabs-web",
+      "source": "/locsopham.github.io/upskylabs-web/",
+      "destination": "/locsopham.github.io/upskylabs-web",
       "basePath": false,
       "internal": true,
       "priority": true,
       "statusCode": 308,
-      "regex": "^/upskylabs-web/$"
+      "regex": "^/locsopham\\.github\\.io/upskylabs-web/$"
     },
     {
       "source": "/:path+/",
@@ -25,13 +25,7 @@
   ],
   "headers": [],
   "rewrites": {
-    "beforeFiles": [
-      {
-        "source": "/upskylabs-web//_next/:path+",
-        "destination": "/upskylabs-web/_next/:path+",
-        "regex": "^/upskylabs-web//_next(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))(?:/)?$"
-      }
-    ],
+    "beforeFiles": [],
     "afterFiles": [],
     "fallback": []
   },
