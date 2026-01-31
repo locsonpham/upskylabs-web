@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/upskylabs-web/_next/static/chunks/ff1a16fafef87110.js","/upskylabs-web/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+3:I[97367,["/upskylabs-web/_next/static/chunks/ff1a16fafef87110.js","/upskylabs-web/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/upskylabs-web/_next/static/chunks/ff1a16fafef87110.js","/upskylabs-web/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+0:{"buildId":"l1b20-s01b2m381YCKBmM","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"UpSkyLabs – Future Air Mobility"}],["$","meta","1",{"name":"description","content":"AI-powered propulsion and smart energy systems for UAVs"}],["$","link","2",{"rel":"icon","href":"/upskylabs-web/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
