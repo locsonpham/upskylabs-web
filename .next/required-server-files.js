@@ -9,7 +9,7 @@ self.__SERVER_FILES_MANIFEST={
     "typedRoutes": false,
     "distDir": ".next",
     "cleanDistDir": true,
-    "assetPrefix": "/locsopham.github.io/upskylabs-web",
+    "assetPrefix": "",
     "cacheMaxMemorySize": 52428800,
     "configOrigin": "next.config.ts",
     "useFileSystemPublicRoutes": true,
@@ -42,7 +42,7 @@ self.__SERVER_FILES_MANIFEST={
         256,
         384
       ],
-      "path": "/locsopham.github.io/upskylabs-web/_next/image",
+      "path": "/_next/image",
       "loader": "default",
       "loaderFile": "",
       "domains": [],
@@ -76,7 +76,7 @@ self.__SERVER_FILES_MANIFEST={
       "maxInactiveAge": 60000,
       "pagesBufferLength": 5
     },
-    "basePath": "/locsopham.github.io/upskylabs-web",
+    "basePath": "",
     "sassOptions": {},
     "trailingSlash": false,
     "i18n": null,

@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true, // REQUIRED for GitHub Pages
   },
-  basePath: "/locsopham.github.io/upskylabs-web",
-  assetPrefix: "/locsopham.github.io/upskylabs-web",
+  basePath: "",
+  assetPrefix: "",
 };
 
 module.exports = nextConfig;
